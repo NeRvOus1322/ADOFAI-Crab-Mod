@@ -1,8 +1,11 @@
 ## DOFAI-Crab-Mod
-# Crab in the adofai!!!
+
+Crab in the adofai!!!
 
 ## 特别鸣谢
-# Special thanks
+
+Special thanks
+
 > Firestix
 
 > Grafrustix
